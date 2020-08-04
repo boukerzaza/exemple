@@ -1,0 +1,42 @@
+1 Définition
+Un MOOC (Massive Open Online Course) est un cours en ligne, accessible à travers le web et ouvert à un nombre illimité de participants. C’est une forme d’apprentissage à distance permettant à n'importe quelle personne avec un accès internet de se former depuis partout dans le monde. L’une des caractéristiques du MOOC est qu’il est libre et ouvert à un grand nombre de participants d’où l’adjectif de massive.
+
+
+
+2 Historique
+Les premiers MOOCs sont apparus à la fin des années 2000 dans aux Etats-Unis, principalement dans les grandes universités américaines. Ils ont connu un grand essor dès le début des années 2010. Pourtant, la plupart des MOOCs délivrent des certificats qui ne sont pas reconnus par les institutions universitaires; en effet, de nombreux problèmes subsistent par rapport à l'évaluation des MOOC, qui n'est pas surveillée quand elle est effectuée à domicile.
+
+
+Types de MOOC
+On peut distinguer différents types de contenu mis en ligne, d'approches pédagogiques et de types de certification proposée:
+
+Types de contenu:
+
+Matériel de cours homogène, qui peut être lié à une tradition plus ancienne (par exemple wikiversity, MIT open courseware, etc.)
+Assemblage de ressources diverses en ligne, semblable à une liste de lecture structurée
+Construction des matériels au fur et à la mesure que le cours avance
+Types d'approche pédagogique:
+
+Lire et/ou regarder des vidéos, faire des quiz et des exercices
+Comme dessus, mais avec de l'interaction entre les participants dans les forums et des autres chaînes
+Comme dessus, mais avec un suivi individuel léger (par exemple, les questions les plus intéressantes sur les forums reçoivent des réponses d'un enseignant)
+Types de certification:
+
+Aucune
+Certificats informels une fois le cours terminé
+Réutilisation des contenus du MOOC dans l'éducation formelle (celles fournies par des grandes universités pour leurs étudiants).
+Une typologie proposée par Stephen Downes répartis les MOOC en deux catégories :
+
+les cMOOC : basés sur une forme d’apprentissage entre pairs : ce sont les apprenants qui partagent leurs savoirs entre eux.
+les xMOOC : basés sur une forme d’apprentissage transmissif, c'est-à-dire la transmission du savoir, à distance, en utilisant toutes sortes de ressources comme des cours filmés, des vidéos démonstratives, etc.
+
+
+
+6 Où trouver des MOOCs?
+La plupart des MOOCs sont distribués à travers des plateformes internationales, basées pour la plupart aux USA et fonctionnant aussi bien sur un modèle commercial que non-commercial. Les principales plateformes où trouver des MOOCs sont:
+
+Coursera
+edX
+Udacity
+Canvas Network
+Fun Mooc
