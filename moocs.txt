@@ -1,7 +1,7 @@
 1 Définition
 Un MOOC (Massive Open Online Course) est un cours en ligne, accessible à travers le web et ouvert à un nombre illimité de participants. C’est une forme d’apprentissage à distance permettant à n'importe quelle personne avec un accès internet de se former depuis partout dans le monde. L’une des caractéristiques du MOOC est qu’il est libre et ouvert à un grand nombre de participants d’où l’adjectif de massive.
 
-
+CHOUBEILA
 
 2 Historique
 Les premiers MOOCs sont apparus à la fin des années 2000 dans aux Etats-Unis, principalement dans les grandes universités américaines. Ils ont connu un grand essor dès le début des années 2010. Pourtant, la plupart des MOOCs délivrent des certificats qui ne sont pas reconnus par les institutions universitaires; en effet, de nombreux problèmes subsistent par rapport à l'évaluation des MOOC, qui n'est pas surveillée quand elle est effectuée à domicile.
